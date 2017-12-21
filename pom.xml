@@ -46,7 +46,6 @@
 	</build>
 
 	<modules>
-		<module>yyq-elasticseach-start</module>
 		<module>yyq-elasticsearch-rent</module>
 		<module>yyq-security-core</module>
 		<module>yyq-security-browser</module>
